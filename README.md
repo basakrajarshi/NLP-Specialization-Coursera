@@ -23,3 +23,7 @@
 ### Week 1
 
  * Programming Assignment: Autocorrect
+ 
+ ### Week 2
+
+ * Programming Assignment: Part of Speech Tagging
