@@ -40,10 +40,17 @@
  
  ### Week 1
  
+ * Lab 1: Introduction to Trax
+ * Lab 2: Classes and Subclasses
+ * Lab 3: Data Generators
  * Programming Assignment: Sentiment with Deep Neural Networks
  
  ### Week 2
  
+ * Lab 1: Hidden State Activation
+ * Lab 2: Vanilla RNNs, GRUs and the Scan Function
+ * Lab 3: Working with JAX NumPy and Calculating Perplexity
+ * Lab 4: Creating a GRU Model using Trax
  * Programming Assignment: Deep N-grams
  
  ### Week 3
